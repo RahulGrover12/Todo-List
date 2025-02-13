@@ -3,7 +3,7 @@
 A simple **To-Do List App** built using **HTML, Tailwind CSS, and JavaScript**.
 
 ## 📷 Screenshot
-![To-Do List App](https://github.com/RahulGrover12/Counter/blob/master/todo.png?raw=true)
+![To-Do List App](https://github.com/RahulGrover12/Todo-List/blob/master/todo.png?raw=true)
 
 ## 🚀 Features
 - ✍️ **Add To-Dos**: Press `Enter` to add a new task.
